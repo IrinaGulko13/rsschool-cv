@@ -31,13 +31,20 @@ A third-year student of Belarussian State University (Minsk, Belarus). An enthus
 
 ## Education 
 
-September 2017 - Present - School of Business of Belarussian State University
+**September 2017 - Present** - School of Business of Belarussian State University
 
-Bachelor's degree on Information Resources Management
+*Bachelor's degree on Information Resources Management*
 
-January 2019 - July 2019 - Stockholm School of Economics in Riga (exchange student)
+**January 2019 - July 2019** - Stockholm School of Economics in Riga (exchange student)
 
-Bachelor's degree on Economics and Business
+*Bachelor's degree on Economics and Business*
+
+## Experience
+
+This is my first project. Used technologies: CSS3, HTML5.
+
+https://github.com/IrinaGulko13/University_project.git
+
 
 ## Languages 
 
