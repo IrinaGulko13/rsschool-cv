@@ -28,3 +28,17 @@ A third-year student of Belarussian State University (Minsk, Belarus). An enthus
 * Other Skills
     * Adobe Photoshop
     * basic Power BI
+
+## Education 
+
+September 2017 - Present - School of Business of Belarussian State University
+Bachelor's degree on Information Resources Management
+
+January 2019 - July 2019 - Stockholm School of Economics in Riga (exchange student)
+Bachelor's degree on Economics and Business
+
+## Languages 
+
+English - Upper-Intermediate (B2)
+
+
