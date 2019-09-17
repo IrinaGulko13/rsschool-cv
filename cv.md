@@ -5,11 +5,11 @@
 
 Phone: +375-33-663-28-62
 
-Email: [] (irinagulko13@gmail.com)
+Email: irinagulko13@gmail.com
 
-Linkedin: [] (https://www.linkedin.com/in/irina-gulko-a01415188/)
+Linkedin: https://www.linkedin.com/in/irina-gulko-a01415188/
 
-GitHub: [] (https://github.com/IrinaGulko13)
+GitHub: https://github.com/IrinaGulko13
 
 
 ## Summary
@@ -32,9 +32,11 @@ A third-year student of Belarussian State University (Minsk, Belarus). An enthus
 ## Education 
 
 September 2017 - Present - School of Business of Belarussian State University
+
 Bachelor's degree on Information Resources Management
 
 January 2019 - July 2019 - Stockholm School of Economics in Riga (exchange student)
+
 Bachelor's degree on Economics and Business
 
 ## Languages 
