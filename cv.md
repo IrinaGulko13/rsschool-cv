@@ -5,11 +5,11 @@
 
 Phone: +375-33-663-28-62
 
-Email: irinagulko13@gmail.com
+Email: [] (irinagulko13@gmail.com)
 
-Linkedin: https://www.linkedin.com/in/irina-gulko-a01415188/
+Linkedin: [] (https://www.linkedin.com/in/irina-gulko-a01415188/)
 
-GitHub: https://github.com/IrinaGulko13
+GitHub: [] (https://github.com/IrinaGulko13)
 
 
 ## Summary
