@@ -1,0 +1,53 @@
+# Iryna Hulko
+
+
+## Contact Info
+
+Phone: +375-33-663-28-62
+
+Email: irinagulko13@gmail.com
+
+Linkedin: https://www.linkedin.com/in/irina-gulko-a01415188/
+
+GitHub: https://github.com/IrinaGulko13
+
+
+## Summary
+
+A third-year student of Belarussian State University (Minsk, Belarus). An enthusiastic, adaptive and fast learning person with a broad and acute interest in developing new skills and solve different challenges. Develop analytical and leadership skills. A very organized person who likes to be kept busy. I am ready to work hard, cause I want to prove myself and become part of the web development team.
+
+## Skills 
+
+* Programming Skills
+    * HTML
+    * CSS
+    * JS
+    * basic C++
+    * basic C#
+
+* Other Skills
+    * Adobe Photoshop
+    * basic Power BI
+
+## Education 
+
+**September 2017 - Present** - School of Business of Belarussian State University
+
+*Bachelor's degree on Information Resources Management*
+
+**January 2019 - July 2019** - Stockholm School of Economics in Riga (exchange student)
+
+*Bachelor's degree on Economics and Business*
+
+## Experience
+
+This is my first project. Used technologies: CSS3, HTML5.
+
+https://github.com/IrinaGulko13/University_project.git
+
+
+## Languages 
+
+English - Upper-Intermediate (B2)
+
+
